@@ -1,2 +1,2 @@
-worker: python3 -m Siva the boss 
+worker: python3 -m MashaRoBot
 ps:scale worker=1
